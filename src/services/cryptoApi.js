@@ -21,18 +21,3 @@ export const cryptoApi = createApi({
 
 export const { useGetCryptosQuery } = cryptoApi;
 
-// const options = {
-//     method: 'GET',
-//     url: 'https://coinranking1.p.rapidapi.com/exchanges',
-//     params: {
-//       referenceCurrencyUuid: 'yhjMzLPhuIDl',
-//       limit: '50',
-//       offset: '0',
-//       orderBy: '24hVolume',
-//       orderDirection: 'desc'
-//     },
-//     headers: {
-//       'X-RapidAPI-Key': 'SIGN-UP-FOR-KEY',
-//       'X-RapidAPI-Host': 'coinranking1.p.rapidapi.com'
-//     }
-//   };
