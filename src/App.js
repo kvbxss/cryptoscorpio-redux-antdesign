@@ -10,6 +10,7 @@ import {
   News,
   CryptoDetails,
 } from "./components";
+
 import "./App.css";
 
 const App = () => {
