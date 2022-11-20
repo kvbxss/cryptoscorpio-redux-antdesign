@@ -29,7 +29,7 @@
 
 <h2> :book: Crypto News page</h2>
 <p align="center"> 
-<img src="cryptonews.png" alt="screensh" height="1000px">
+<img src="cryptonews.png" alt="screensh" height="800px">
 </p>
 
 # Information is collected from Bing News Search API
