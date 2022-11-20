@@ -21,7 +21,7 @@
 
 # Information is requested from RapidAPI mainly from CoinRanking API.
 
-<p>You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinranking1/)</p>
+<p>You can find CoinRanking Api [here] (https://rapidapi.com/Coinranking/api/coinranking1/)</p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -34,7 +34,7 @@
 
 # Information is collected from Bing News Search API
 
-<p>You can find Bing News Search API [here](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)</p>
+<p>You can find Bing News Search API [here] (https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
