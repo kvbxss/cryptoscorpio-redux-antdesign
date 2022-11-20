@@ -34,7 +34,7 @@ You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinran
 
 # Information is collected from Bing News Search API
 
-You can find Bing News Search API [here] (https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
+You can find Bing News Search API [here](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
