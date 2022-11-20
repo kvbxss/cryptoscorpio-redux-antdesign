@@ -32,7 +32,6 @@ const CryptoDetails = () => {
 
   if (isFetching) return <Loader />;
 
-  const time = ["3h", "24h", "7d", "30d", "1y", "3m", "3y", "5y"];
 
   const stats = [
     {
@@ -112,16 +111,6 @@ const CryptoDetails = () => {
           market cap and supply.
         </p>
       </Col>
-      <Select
-        defaultValue="7d"
-        className="select-timeperiod"
-        placeholder="Select Timeperiod"
-        onChange={(value) => setTimePeriod(value)}
-      >
-        {time.map((date) => (
-          <Option key={date}>{date}</Option>
-        ))}
-      </Select>
       <LineChart coinHistory={coinHistory} curretPrice={millify(cryptoDetails?.price)} coinName={cryptoDetails?.name}/>
       <Col className="stats-container">
         <Col className="coin-value-statistics">
