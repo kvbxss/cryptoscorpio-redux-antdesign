@@ -38,7 +38,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-#Project made with courtesy of [JavaScript Mastery]([https://www.youtube.com/@javascriptmastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery)) and its tutorial.
+# Project made with courtesy of [JavaScript Mastery]([https://www.youtube.com/@javascriptmastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery)) and its tutorial.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
