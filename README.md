@@ -13,6 +13,36 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+<h2> :book: Crypto Details page</h2>
+<p align="center"> 
+<img src="cryptodetails.png" alt="screensh" height="1000px">
+</p>
+
+# Information is requested from RapidAPI mainly from CoinRanking API.
+
+<p>You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinranking1/)</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2> :book: Crypto News page</h2>
+<p align="center"> 
+<img src="cryptonews.png" alt="screensh" height="1000px">
+</p>
+
+# Information is collected from Bing News Search API
+
+<p>You can find Bing News Search API [here](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+#Project made with courtesy of [JavaScript Mastery]([https://www.youtube.com/@javascriptmastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery)) and its tutorial.
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :clipboard: Execution Instruction</h2>
 
 # Getting Started with Create React App
