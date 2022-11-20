@@ -19,7 +19,10 @@
 <img src="cryptodetails.png" alt="screensh" height="1000px">
 </p>
 
-# Information is requested from RapidAPI mainly from CoinRanking API.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> Information is requested from RapidAPI mainly from CoinRanking API. </h2>
 
 You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinranking1/)
 
@@ -32,13 +35,15 @@ You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinran
 <img src="cryptonews.png" alt="screensh" height="800px">
 </p>
 
-# Information is collected from Bing News Search API
+<h2> Information is collected from Bing News Search API </h2>
 
 You can find Bing News Search API [here](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# Project made with courtesy of [JavaScript Mastery]([https://www.youtube.com/@javascriptmastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery)) and its tutorial.
+<h2> Idea </h2>
+
+Project made with courtesy of [JavaScript Mastery]([https://www.youtube.com/@javascriptmastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery)) and its tutorial. 
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
