@@ -5,7 +5,7 @@
 <h3 align="center"> React Redux Antdesign RapidAPI </h3>
 
 <p align="center"> 
-<img src="cryptoscorpio.png" alt="screensh" height="600px">
+<img src="cryptoscorpio.png" alt="screensh" height="1000px">
 </p>
 
 <p>Simple project to learn the basics od ReduxToolkit and its advantages..</p>
