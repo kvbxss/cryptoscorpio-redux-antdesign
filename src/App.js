@@ -44,7 +44,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            CryptoSnake <br />
+            CryptoScorpio <br />
             All rights reserved
           </Typography.Title>
           <Space>
