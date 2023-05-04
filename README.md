@@ -1,3 +1,55 @@
+<p align="center"> 
+  <img src="logoscorpio.png" alt="Logo.png" width="80px" height="80px">
+</p>
+<h1 align="center"> CryptoScorpio </h1>
+<h3 align="center"> React Redux Antdesign RapidAPI </h3>
+
+<p align="center"> 
+<img src="cryptoscorpio.png" alt="screensh" height="1000px">
+</p>
+
+<p>Simple project to learn the basics od ReduxToolkit and its advantages..</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2> :book: Crypto Details page</h2>
+<p align="center"> 
+<img src="cryptodetails.png" alt="screensh" height="1000px">
+</p>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> Information is requested from RapidAPI mainly from CoinRanking API. </h2>
+
+You can find CoinRanking Api [here](https://rapidapi.com/Coinranking/api/coinranking1/)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2> :book: Crypto News page</h2>
+<p align="center"> 
+<img src="cryptonews.png" alt="screensh" height="800px">
+</p>
+
+<h2> Information is collected from Bing News Search API </h2>
+
+You can find Bing News Search API [here](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> Idea </h2>
+
+Project made with courtesy of [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss&ab_channel=JavaScriptMastery) and its tutorial. 
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :clipboard: Execution Instruction</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
